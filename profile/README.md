@@ -1,1 +1,2 @@
-# slimecube
+<img src="swag.jpg" alt="Команда говна"></img>
+<p>Это параграф со стилями</p>
